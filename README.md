@@ -1,5 +1,5 @@
 # OneClickLogin
-东北大学IP网关一键登录
+IP网关一键登录
 
 # Windows使用方法
 先从官网下载curl，解压后把curl.exe放在C:\Windows\System32下，或者自己另外配置环境变量也行  
